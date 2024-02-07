@@ -1,0 +1,56 @@
+Anaconda-Deer Lodge: 30; Anaconda
+Beaverhead: 18; Dillon
+Big Horn: 22; Hardin
+Blaine: 24; Chinook
+Broadwater: 43; Townsend
+Butte-Silver Bow: 1; Butte
+Carbon: 10; Red Lodge
+Carter: 42; Ekalaka
+Cascade: 2; Great Falls
+Chouteau: 19; Fort Benton
+Custer: 14; Miles City
+Daniels: 37; Scobey
+Dawson: 16; Glendive
+Fallon: 39; Baker
+Fergus: 8; Lewistown
+Flathead: 7; Kalispell
+Gallatin: 6; Bozeman
+Garfield: 50; Jordan
+Glacier: 38; Cut Bank
+Golden Valley: 53; Ryegate
+Granite: 46; Philipsburg
+Hill: 12; Havre
+Jefferson: 51; Boulder
+Judith Basin: 36; Stanford
+Lake: 15; Polson
+Lewis & Clark: 5; Helena
+Liberty: 48; Chester
+Lincoln: 56; Libby
+Madison: 25; Virginia City
+McCone: 41; Circle
+Meagher: 47; White Sulphur Springs
+Mineral: 54; Superior
+Missoula: 4; Missoula
+Musselshell: 23; Roundup
+Park: 49; Livingston
+Petroleum: 55; Winnett
+Phillips: 11; Malta
+Pondera: 26; Conrad
+Powder River: 9; Broadus
+Powell: 28; Deer Lodge
+Prairie: 45; Terry
+Ravalli: 13; Hamilton
+Richland: 27; Sidney
+Roosevelt: 17; Wolf Point
+Rosebud: 29; Forsyth
+Sanders: 35; Thompson Falls
+Sheridan: 34; Plentywood
+Stillwater: 32; Columbus
+Sweet Grass: 40; Big Timber
+Teton: 31; Choteau
+Toole: 21; Shelby
+Treasure: 33; Hysham
+Valley: 20; Glasgow
+Wheatland: 44; Harlowton
+Wibaux: 52; Wibaux
+Yellowstone: 3; Billings
